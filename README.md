@@ -1,6 +1,6 @@
 # Hi, I'm Welderufael Haile 👋
 
-I'm a **Full Stack Developer** and **IT Instructor** based in Mekelle, Ethiopia. With **2+ years of professional experience**, I specialize in building scalable web applications and mentoring developers. I'm passionate about clean code, user-centric design, and continuous learning.
+I'm a **Full Stack and mobile app Developer based in Mekelle, Ethiopia. With **3+ years of professional experience**, I specialize in building scalable web applications and mentoring developers. I'm passionate about clean code, user-centric design, and continuous learning.
 
 ---
 
