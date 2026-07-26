@@ -1,6 +1,6 @@
 # Hi, I'm Welderufael Haile 👋
 
-I'm a **Full Stack and mobile app Developer based in Mekelle, Ethiopia. With **3+ years of professional experience**, I specialize in building scalable web applications and mentoring developers. I'm passionate about clean code, user-centric design, and continuous learning.
+I'm a **Full Stack Developer** and **IT Instructor** based in Mekelle, Ethiopia. With **2+ years of professional experience**, I specialize in building scalable web applications and mentoring developers. I'm passionate about clean code, user-centric design, and continuous learning.
 
 ---
 
@@ -73,6 +73,7 @@ Mobile note management app with offline storage and intuitive user interface.
 
 Bilingual dictionary application with fast search functionality and user-friendly mobile experience.
 
+---
 
 ## 🎓 Education & Certifications
 
@@ -83,6 +84,7 @@ Micro Link Information Technology & Business College | 2018 – 2022
 - Programming Fundamentals Nanodegree – Udacity
 - Full-Stack Web Development Certification – Byte Pulse
 
+---
 
 ## 📊 What I'm Currently Working On
 
@@ -91,6 +93,7 @@ Micro Link Information Technology & Business College | 2018 – 2022
 - Exploring advanced backend architecture patterns and cloud deployment strategies
 - Expanding mobile development expertise with React Native
 
+---
 
 ## 🎯 What I'm Looking For
 
@@ -98,14 +101,16 @@ Micro Link Information Technology & Business College | 2018 – 2022
 - Both **remote and onsite** positions
 - Collaborative teams focused on continuous learning and innovation
 
+---
 
 ## 🤝 Connect With Me
 
 📧 **Email:** [rufaelhaile14@gmail.com](mailto:rufaelhaile14@gmail.com)  
 💼 **Portfolio:** [https://well-profile.vercel.app/](https://well-profile.vercel.app/)  
 📱 **Phone:** +251 984 999 493  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/welderufael-h-4797962a9/](https://www.linkedin.com/in/welderufael-h-4797962a9/)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/welderufael-h-4797962a9/](https://www.linkedin.com/in/welderufael-h-4797962a9/)
 
+---
 
 ## 📈 My Approach
 
@@ -115,5 +120,6 @@ Micro Link Information Technology & Business College | 2018 – 2022
 - ✅ **Continuous learner** adapting to new technologies and methodologies
 - ✅ **Collaborative team player** with strong communication skills
 
+---
 
 *Last updated: July 2026*
