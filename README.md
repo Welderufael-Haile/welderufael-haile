@@ -40,6 +40,8 @@ I'm a **Full Stack Developer** and **IT Instructor** based in Mekelle, Ethiopia.
 - Manage computer systems, installations, and preventive maintenance
 
 ---
+### Full Stack Developer | Hanos Tech,remote
+**july 2026 – Present**
 
 ## 📌 Featured Projects
 
