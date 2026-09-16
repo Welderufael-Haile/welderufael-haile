@@ -1,6 +1,6 @@
 # Hi, I'm Welderufael Haile 👋
 
-I'm a **Full Stack Developer** and **IT Instructor** based in Mekelle, Ethiopia. With **2+ years of professional experience**, I specialize in building scalable web applications and mentoring developers. I'm passionate about clean code, user-centric design, and continuous learning.
+I'm a **Full Stack Developer** Addis Abeba, Ethiopia. With **3+ years of professional experience**, I specialize in building scalable web applications and mentoring developers. I'm passionate about clean code, user-centric design, and continuous learning.
 
 ---
 
@@ -16,8 +16,8 @@ I'm a **Full Stack Developer** and **IT Instructor** based in Mekelle, Ethiopia.
 
 ## 💼 Professional Experience
 
-### Full Stack Developer | Byte Pulse, Mekelle
-**September 2024 – Present**
+### Full Stack Developer | Byte Pulse, Mekelle, hybird
+**September 2024 – 30/7/2026**
 
 - **E-Health Management System**: Developed a full-stack healthcare platform using Next.js, NestJS, and PostgreSQL with patient records, appointment scheduling, and secure role-based access control
 - **School Management System**: Built a scalable web application with Next.js, Express.js, and MySQL for student registration, academic records, and automated reporting
@@ -33,14 +33,14 @@ I'm a **Full Stack Developer** and **IT Instructor** based in Mekelle, Ethiopia.
 - Mentored 50+ students through practical development projects from planning to deployment
 - Conducted hands-on workshops on Git, debugging, coding standards, and best practices
 
-### IT Teacher & Technician | Metanoia Academy, Mekelle
-**2025 – Present**
+### IT Teacher & Technician | Metanoia Academy, Mekelle, onsite
+**2025 – 2026**
 
 - Provide technical support for hardware, software, and network troubleshooting
 - Manage computer systems, installations, and preventive maintenance
 
 ---
-### Full Stack Developer | Hanos Tech,remote
+### Full Stack Developer | Hanos Tech,Addis Abeba, remote
 **july 2026 – Present**
 
 ## 📌 Featured Projects
