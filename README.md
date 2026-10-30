@@ -1,10 +1,10 @@
-# Hi, I'm Welderufael Haile 👋
+# Hi, I'm Welderufael Haile
 
 I'm a **Full Stack Developer** Addis Abeba, Ethiopia. With **3+ years of professional experience**, I specialize in building scalable web applications and mentoring developers. I'm passionate about clean code, user-centric design, and continuous learning.
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 
 **Frontend:** React.js, Next.js, Angular, React Native, TailwindCSS, Shadcn UI, Redux, TanStack  
 **Backend:** Node.js, Express.js, NestJS, Laravel, REST APIs, JWT Authentication  
@@ -14,7 +14,7 @@ I'm a **Full Stack Developer** Addis Abeba, Ethiopia. With **3+ years of profess
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Full Stack Developer | Byte Pulse, Mekelle, hybird
 **September 2024 – 30/7/2026**
@@ -36,14 +36,14 @@ I'm a **Full Stack Developer** Addis Abeba, Ethiopia. With **3+ years of profess
 ### Software engineer | Hanos Tech,Addis Abeba, remote
 **july 2026 – Present**
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🏥 E-Health Management System
+###  E-Health Management System
 **Tech Stack:** Next.js, NestJS, PostgreSQL, JWT Auth, TailwindCSS
 
 A comprehensive healthcare platform for managing patient records, appointments, and access control with secure authentication.
 
-### 🏫 School Management System
+### School Management System
 **Tech Stack:** Next.js, Express.js, MySQL, TailwindCSS
 
 Automated student registration, academic records management, and reporting system for educational institutions.
@@ -53,28 +53,26 @@ Automated student registration, academic records management, and reporting syste
 
 Messaging platform with real-time communication, online user status, and persistent message storage.
 
-### 📚 Digital Library Platform
+### Digital Library Platform
 **Tech Stack:** React.js, Express.js, Prisma ORM
 
 Searchable digital resource management system improving resource accessibility and retrieval efficiency.
 
-### 📝 Hanos lottery and game web app
+### Hanos lottery and game web app
 **Tech Stack:** next.js, nest.js, docker and postgresql
 
-Mobile note management app with offline storage and intuitive user interface.
-
-### 🔤 FastDemand
+### FastDemand
 multi-vendor home and doorstep services marketplace app. It connects customers with local service providers for plumbing, electrical work, cleaning, beauty services, and appliance repair.
 **Tech Stack:** laravel php
 
-### 🔤 English–Tigrigna Dictionary
+### English–Tigrigna Dictionary
 **Tech Stack:** React Native
 
 Bilingual dictionary application with fast search functionality and user-friendly mobile experience.
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 **Bachelor of Science in Software Engineering**  
 Micro Link Information Technology & Business College | 2018 – 2022
@@ -85,7 +83,7 @@ Micro Link Information Technology & Business College | 2018 – 2022
 
 ---
 
-## 📊 What I'm Currently Working On
+## What I'm Currently Working On
 
 - Building production-grade web applications with modern tech stacks
 - Mentoring junior developers and contributing to open-source projects
@@ -94,7 +92,7 @@ Micro Link Information Technology & Business College | 2018 – 2022
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 - Opportunities to contribute to impactful projects in **Web Development, Full Stack Development, or Technical Mentoring**
 - Both **remote and onsite** positions
@@ -102,22 +100,22 @@ Micro Link Information Technology & Business College | 2018 – 2022
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-📧 **Email:** [rufaelhaile14@gmail.com](mailto:rufaelhaile14@gmail.com)  
-💼 **Portfolio:** [https://well-profile.vercel.app/](https://wellsolution.vercel.app/)  
-📱 **Phone:** +251 984 999 493  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/welderufael-h-4797962a9/](https://www.linkedin.com/in/welderufael-h-4797962a9/)
+ **Email:** [rufaelhaile14@gmail.com](mailto:rufaelhaile14@gmail.com)  
+ **Portfolio:** [https://well-profile.vercel.app/](https://wellsolution.vercel.app/)  
+ **Phone:** +251 984 999 493  
+ **LinkedIn:** [https://www.linkedin.com/in/welderufael-h-4797962a9/](https://www.linkedin.com/in/welderufael-h-4797962a9/)
 
 ---
 
-## 📈 My Approach
+## My Approach
 
-- ✅ **Clean, maintainable code** following industry best practices
-- ✅ **User-centric design** with responsive and accessible interfaces
-- ✅ **Security-first mindset** implementing proper authentication and authorization
-- ✅ **Continuous learner** adapting to new technologies and methodologies
-- ✅ **Collaborative team player** with strong communication skills
+-  **Clean, maintainable code** following industry best practices
+-  **User-centric design** with responsive and accessible interfaces
+-  **Security-first mindset** implementing proper authentication and authorization
+-  **Continuous learner** adapting to new technologies and methodologies
+-  **Collaborative team player** with strong communication skills
 
 ---
 
