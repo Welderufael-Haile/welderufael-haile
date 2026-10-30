@@ -26,13 +26,6 @@ I'm a **Full Stack Developer** Addis Abeba, Ethiopia. With **3+ years of profess
 - **UI/UX Development**: Designed responsive interfaces using Tailwind CSS for seamless desktop and mobile experiences
 - **Security Implementation**: Implemented JWT-based authentication and authorization across all applications
 
-### IT & Web Development Instructor | Al School of Computer, Mekelle
-**August 2024 – July 2025**
-
-- Designed and delivered training programs covering frontend, backend, databases, and software engineering fundamentals
-- Mentored 50+ students through practical development projects from planning to deployment
-- Conducted hands-on workshops on Git, debugging, coding standards, and best practices
-
 ### IT Teacher & Technician | Metanoia Academy, Mekelle, onsite
 **2025 – 2026**
 
@@ -40,7 +33,7 @@ I'm a **Full Stack Developer** Addis Abeba, Ethiopia. With **3+ years of profess
 - Manage computer systems, installations, and preventive maintenance
 
 ---
-### Full Stack Developer | Hanos Tech,Addis Abeba, remote
+### Software engineer | Hanos Tech,Addis Abeba, remote
 **july 2026 – Present**
 
 ## 📌 Featured Projects
@@ -65,10 +58,14 @@ Messaging platform with real-time communication, online user status, and persist
 
 Searchable digital resource management system improving resource accessibility and retrieval efficiency.
 
-### 📝 Note-Taking Application
-**Tech Stack:** React Native
+### 📝 Hanos lottery and game web app
+**Tech Stack:** next.js, nest.js, docker and postgresql
 
 Mobile note management app with offline storage and intuitive user interface.
+
+### 🔤 FastDemand
+multi-vendor home and doorstep services marketplace app. It connects customers with local service providers for plumbing, electrical work, cleaning, beauty services, and appliance repair.
+**Tech Stack:** laravel php
 
 ### 🔤 English–Tigrigna Dictionary
 **Tech Stack:** React Native
